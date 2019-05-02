@@ -11,19 +11,15 @@
         "widget",
         "tinymce"
     ],
-    "homepage": "http://yiiwheels.com/extension/tinymce-widget",
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "2amigOS! Consulting Group",
-            "email": "hola@2amigos.us",
-            "homepage": "http://2amigos.us",
-            "role": "Developer"
+            "name": "Erik Verbeel"
         }
     ],
     "support": {
-        "issues": "https://github.com/2amigos/yii2-tinymce-widget/issues",
-        "source": "https://github.com/2amigos/yii2-tinymce-widget"
+        "issues": "https://github.com/erikverbeek/yii2-tinymce-widget/issues",
+        "source": "https://github.com/erikverbeek/yii2-tinymce-widget"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
